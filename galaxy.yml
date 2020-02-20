@@ -1,0 +1,14 @@
+namespace: notmintest
+name: not_a_real_collection
+version: 0.1.0
+readme: README.md
+authors: null
+description: null
+license: GPL-3.0-or-later
+license_file: COPYING
+tags: null
+dependencies: {}
+repository: git@github.com:ansible-collection-migration/notmintest.not_a_real_collection.git
+documentation: https://github.com/ansible-collection-migration/notmintest.not_a_real_collection/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/notmintest.not_a_real_collection
+issues: https://github.com/ansible-collection-migration/notmintest.not_a_real_collection/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc

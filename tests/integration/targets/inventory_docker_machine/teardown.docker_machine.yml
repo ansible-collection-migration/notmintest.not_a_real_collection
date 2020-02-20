@@ -1,0 +1,3 @@
+plugin: notmintest.not_a_real_collection.docker_machine
+daemon_env: skip
+running_required: false

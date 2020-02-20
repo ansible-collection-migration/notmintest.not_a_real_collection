@@ -1,0 +1,2 @@
+plugin: notmintest.not_a_real_collection.docker_machine
+daemon_env: require
